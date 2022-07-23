@@ -136,6 +136,8 @@ def main():
         #         insertLetter(move, 'o')
         #         print(f"computer played at {move}")
         #         printBoard(board)
+
+        #comment the line below and uncomment the line above for ai vs ai
             playerMove()
 
         else:
