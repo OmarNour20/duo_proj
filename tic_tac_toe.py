@@ -137,7 +137,7 @@ def main():
         #         print(f"computer played at {move}")
         #         printBoard(board)
 
-        #comment the line below and uncomment the line above for ai vs ai
+        #comment the line below and uncomment the lines above for ai vs ai
             playerMove()
 
         else:
